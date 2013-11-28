@@ -9,6 +9,7 @@
   "author": "nbqx",
   "license": "BSD-2-Clause",
   "dependencies": {
+    "nconf": "0.6.8",
     "underscore": "1.5.2",
     "temporary": "0.0.7"
   }
