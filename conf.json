@@ -1,3 +1,5 @@
 {
-  "folder": "../observed"
+  "folder": "../observed",
+  "ignore": [".DS_Store"],
+  "only": [".jsx$"]
 }
